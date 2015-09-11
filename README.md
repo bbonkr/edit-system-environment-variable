@@ -36,7 +36,7 @@ Edit System Environment Variable <small>시스템 변수 편집기</small>
 
 ## 설명
 
-![실행화면](./@img/p-002.png)
+![실행화면](./screenshot.png)
 
 ### 버튼
 
